@@ -1,5 +1,13 @@
 # Font Picker for React
 
+This is a fork of the original [font-picker-react](https://github.com/samuelmeuli/font-picker-react) component created by samuelmeuli for the purposes of updating it to support react 17 and other dated dependencies. All package.json dependencies have been bumped to latest versions and unneeded dev tools (like style-lint and storybook) have been removed to simplify upgrading.
+
+This still seems to be one of the better font pickers for use with react despite is appearing to be abandoned.
+
+The original readme is included below
+
+---
+
 **A simple, customizable font picker allowing users to preview, select and use Google Fonts on your website.**
 
 - Simple setup
